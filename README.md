@@ -1,0 +1,1 @@
+This repository demonstrates a common C# error: the NullReferenceException.  The `bug.cs` file contains code that is prone to this exception. The `bugSolution.cs` file shows how to prevent it by checking for null values and handling them appropriately.
